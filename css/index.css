@@ -110,7 +110,7 @@ padding-top: 2%;
     margin-top: 3%;
 }
 
-ul{  
+ul.no-stile-list{  
  list-style-type: circle;
  list-style-position: outside;
   margin: 0;
@@ -118,7 +118,8 @@ ul{
 }
 
 .nolistStyle{
-    list-style-type: none !important;
+ list-style-type: none !important;
+ list-style-position: outside;
 
 }
 .boldP{
