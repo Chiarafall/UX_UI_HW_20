@@ -82,6 +82,9 @@ margin-left: 200px;
     font-display:scale ;
   }
 
+h2{
+    color:#79595D;
+}
 
 .main1{
     font-weight:600;
@@ -94,6 +97,38 @@ margin-left: 200px;
 
 }
 
+p{
+font-family: anonymous pro, Courier, monospace;
+font-size: 20px;
+letter-spacing: 1px;
+font-weight: 200;
+color: #79595D;
+padding-top: 2%;
+}
 
+.section{
+    margin-top: 3%;
+}
 
+ul{  
+ list-style-type: circle;
+ list-style-position: outside;
+  margin: 0;
+  padding: 2%;
+}
 
+.nolistStyle{
+    list-style-type: none !important;
+
+}
+.boldP{
+font-weight: 600 !important;
+}
+
+.main3{
+    font-family: "raleway", sans-serif;
+    color: #79595D;
+    font-weight:600;
+    font-size: 60px;
+
+}
